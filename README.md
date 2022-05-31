@@ -44,12 +44,7 @@
    </tr>
 </table>
 <table cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td>
-     <img alt="Kawser Ahamed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kawserahamed&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
-    </td> 
-   </tr>
+ 
 </table>
 
 
