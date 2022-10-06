@@ -1,5 +1,5 @@
-<h1 align="center">Assalamu alaykum 👋, I'm Kawser Ahamed</h1>
-<h3 align="center">A passionate Android App Developer from Bangladesh</h3>
+<h1 align="center"> I'm Kawser Ahamed</h1>
+<h3 align="center">Android App Developer</h3>
 
 
 <p align="left">
