@@ -31,9 +31,6 @@
  
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawserahamed&label=Profile%20views&color=0e75b6&style=flat" alt="kawserahamed" /> </p>
-
-
 
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
