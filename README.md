@@ -1,6 +1,14 @@
-<h1 align="center"> I'm Kawser Ahamed</h1>
-<h3 align="center">Android App Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=23&pause=1000&width=440&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there%2C+I'm+Kawser+Ahamed)](https://github.com/kawserahamed)
 
+
+
+## I'm an Android Application Developer!!
+
+- 🔭 I’m currently working on Android Projects
+- 💬 Ask me about ***Android, Kotlin, Java, Firebase***
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love listening to audiobooks
+- 👯 I’m looking to collaborate with other developer
 
 <p align="left">
 </p>
