@@ -10,11 +10,18 @@
 - ⚡ Fun fact: I love listening to audiobooks
 - 👯 I’m looking to collaborate with other developer
 
+
+### Connect with me:
+
+  [<img align="left" alt="kawserahamed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt="kawserahamed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+ 
+ 
+<br />
+ 
 <p align="left">
+
 </p>
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -38,6 +45,11 @@
   </a> 
  
 </p>
+
+ [linkedin]: https://www.linkedin.com/in/kawser-ahamed-9a52731a6/
+ [facebook]: https://www.facebook.com/kawserrrrr/
+
+
 
 
 <table cellspacing="0" cellpadding="0" style="border:none;">
