@@ -5,7 +5,7 @@
 ## I'm an Android Application Developer!!
 
 - 🔭 I’m currently working on Android Projects
-- 💬 Ask me about ***Android, Kotlin, Java, Firebase***
+- 💬 Ask me about **Android, Kotlin, Java, Firebase**
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love listening to audiobooks
 - 👯 I’m looking to collaborate with other developer
@@ -13,8 +13,9 @@
 
 ### Connect with me:
 
-  [<img align="left" alt="kawserahamed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  [<img align="left" alt="kawserahamed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+  [<img align="left" alt="kawserahamed | LinkedIn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />][linkedin]
+  
+  [<img align="left" alt="kawserahamed | Twitter" width="35px" src="https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png" />][facebook]
  
  
 <br />
