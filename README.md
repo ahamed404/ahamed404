@@ -11,18 +11,15 @@
 - 👯 I’m looking to collaborate with other developer
 
 
-### Connect with me:
+## Connect with me:
 
   [<img align="left" alt="kawserahamed | LinkedIn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />][linkedin]
-  
   [<img align="left" alt="kawserahamed | Twitter" width="35px" src="https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png" />][facebook]
- 
- 
 <br />
  
-<p align="left">
-
-</p>
+ <br />
+ 
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -46,6 +43,8 @@
   </a> 
  
 </p>
+
+
 
  [linkedin]: https://www.linkedin.com/in/kawser-ahamed-9a52731a6/
  [facebook]: https://www.facebook.com/kawserrrrr/
