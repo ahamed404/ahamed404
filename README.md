@@ -24,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://source.android.com/static/docs/setup/images/Android_symbol_green_RGB.png" alt="android" width="40" height="40"/> 
+    <img src="https://www.gstatic.com/devrel-devsite/prod/v8384ce39f720e001fb8bd2a6f94b1084300273daaf700bffd864da68ae2d9c21/android/images/touchicon-180.png" alt="android" width="40" height="40"/> 
   </a> 
    <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
