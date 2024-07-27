@@ -4,7 +4,7 @@
 
 ## I'm an Android Application Developer!!
 
-- 🔭 I’m currently working on Android Projects
+- 🔭 currently learning KMM, KMP
 - 💬 Ask me about **Android, Kotlin, Java, Firebase**
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love listening to audiobooks
