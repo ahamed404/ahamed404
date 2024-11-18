@@ -27,7 +27,7 @@
     <img src="https://source.android.com/static/docs/setup/images/Android_symbol_green_RGB.png" alt="android" width="40" height="40"/> 
   </a> 
    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XMw9Io8X--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2485/80d41bc3-7f05-444c-a32e-ceb190e486b1.png" alt="c" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="c" width="40" height="40"/> 
   </a> 
    <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
